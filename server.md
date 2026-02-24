@@ -1072,11 +1072,6 @@ npm start
 | Follow | 팔로우/팔로워 | [followAPI.md](./api_description/followAPI.md) |
 | Admin | 관리자 | [adminAPI.md](./api_description/adminAPI.md) |
 
----
-
-## 📝 라이선스
-
-ISC License
 
 ---
 
